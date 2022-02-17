@@ -23,8 +23,6 @@ header h1 {
   
 header a {
     color: #fce138;
-}
-header a {
     text-decoration: none;
     color: #fce138;
 }
@@ -53,7 +51,7 @@ section {
 }
 /* Hero Style Start */
 .hero {
-    background-image: url("../css/hero-bg.jpeg");
+    background-image: url("../images/hero-bg.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
